@@ -1,3 +1,3 @@
-x = 5
+age = int(input("enter your age: "))
 
-print(x,x * 2)
+print(age >= 18)

@@ -1,3 +1,3 @@
-favorite_movie ="F&F"
+password = (input("enter your password: "))
 
-print("My favorite movie is", favorite_movie)
+print(password == "Hello2025")

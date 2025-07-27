@@ -1,5 +1,3 @@
-name = "saba"
-age = 13
-city = "khashuri"
+print(5 == 7)
 
-print(name +" "+str(age) +" "+city)
+print(13 == 13)

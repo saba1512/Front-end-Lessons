@@ -1,3 +1,10 @@
-password = (input("enter your password: "))
+number = int(input("enter your number: "))
 
-print(password == "Hello2025")
+chek_1 = number > 5
+chek_2 = number < 14
+chek_3 = number >= 36
+
+
+print(chek_1)
+print(chek_2)
+print(chek_3)

@@ -1,3 +1,7 @@
-age = int(input("enter your age: "))
+saba = input("enter your word: ")
+zura = input("enter your word: ")
+gio = input("enter your word: ")
 
-print(age >= 18)
+print("sabam dawera:" + saba)
+print("zuram dawera:" + zura)
+print("giom dawera:" + gio)
